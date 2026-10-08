@@ -113,3 +113,7 @@ If you find `Flash-Searhcer` useful in your research or applications, we would a
 [![Star History Chart](https://api.star-history.com/svg?repos=OPPO-PersonalAI/Flash-Searcher&type=Date)](https://github.com/OPPO-PersonalAI/Flash-Searcher)
 
 </div>
+
+### Compatible search endpoints
+
+Support any Serper.dev-compatible endpoint (like litescrape.com, serpbase.dev, serpensapi.org, and others). Set `SERPER_BASE_URL` to the provider base URL without `/search` and use its API key. The existing Serper endpoint remains the default.
